@@ -1,5 +1,5 @@
 ## Hi there 👋
-##I'm NOUKO JAYSON WHITE
+## I'm NOUKO JAYSON WHITE
 Software Engineer, Web developer, IT passionate.
 
 Technologies and Tools
