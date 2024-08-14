@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is NOUKO JAYSON WHITE, Software Engineer,Web developer,IT passionate.
 
 Technologies and Tools
 I leverage the latest and popular technologies to build amazing softwares.
